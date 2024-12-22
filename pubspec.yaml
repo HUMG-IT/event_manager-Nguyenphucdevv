@@ -23,11 +23,3 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   generate: true
-l10n:
-  delegates:
-    - flutter_localizations:
-        material: true
-    - app_localizations:
-        supported_locales:
-          - en
-          - vi
